@@ -1,0 +1,4 @@
+"2. Syn_2.vhdl": This the file that we synthesized using Synoposys design Compiler
+"3. uart_syn_buggy_fixed": This is correctd (all bugs fixed) gate-level file
+"4. formality": This folder consist of RTL files, gate level synthesized file, work, shell_command, library and "uart_syn_buggy_formality.vhdl" => bug fixed with the help of formality. 
+"5. conformal": This folder consist of RTL files, gate level synthesized file, library, lec.uilog, bak file and "uart_syn_buggy_conformal.vhdl" => bug fixed with the help of conformal.
